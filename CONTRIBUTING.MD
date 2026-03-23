@@ -1,7 +1,7 @@
 ### Steps to contribute:
 
 
-1. Install python minimum python 3.9, with pyenv for example.
+1. Install python minimum python 3.10, with pyenv for example.
 2. Run ```make .venv``` for local venv, then ```source .venv/bin/activate```
 3. Linting, formatting, typechecking with ```make pre-commit```
 4. Run tests with ```pytest .```
